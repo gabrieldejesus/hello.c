@@ -32,6 +32,14 @@ or download the zip from the green button at the beginning of the repository
 
 <img src="https://i.ibb.co/3M5CXKm/clone-zip.png" alt="Download zip" border="0">
 
+## 💻 Configuration for development
+
+Execution:
+
+**Taking into account that you understand and have a stable environment for running programs in the C language**
+
+Run the `make hello` to compile the program and the run `./hello` to run it
+
 ## 🗃 Release history
 
 - 0.1.0
