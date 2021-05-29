@@ -36,7 +36,7 @@ or download the zip from the green button at the beginning of the repository
 
 Execution:
 
-**Taking into account that you understand and have a stable environment for running programs in the C language**
+**_Taking into account that you understand and have a stable environment for running programs in the C language_**
 
 Run the `make hello` to compile the program and the run `./hello` to run it
 
